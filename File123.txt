@@ -1,0 +1,93 @@
+List of Topics under Quantitative Aptitude:
+
+    Algebra
+    Alligations and mixtures
+    Area
+    Problems on Age
+    Averages, Mean, Median and Mode
+    Boat Problems
+    Chain rule
+    Discount
+    Data Interpretation
+    Games and Races
+    Heights and distances
+    Inequalities
+    Number Series
+    LCM and HCF
+    Linear Equations
+    Logarithms
+    Number theory
+    Number System – Fractions, Decimals
+    Partnerships
+    Percentage
+    Permutation and Combinations
+    Pipes and Cisterns
+    Points, lines and angles
+    Probability
+    Profit and Loss
+    Progressions
+    Quadratic Equations
+    Ratio and Proportions
+    Remainder theorem and unit digit
+    Sets and Venn Diagrams
+    Simple and Compound Interest
+    Simplification and Approximation
+    Speed, Distance and Time
+    Stocks and shares
+    Data Sufficiency
+    Surds, Indices, Exponents, and Powers
+    Surface area
+    Time and Work
+    Problems on Train
+    Trigonometry
+    Volumes
+    Work and Wages
+
+Logical reasoning is classified into two types:
+
+   1.Verbal Reasoning: It is the ability to logically understand the concepts and solve problems expressed in words. Verbal reasoning tests the ability of extraction of information and implications in a sentence.
+	
+   2.Non-verbal Reasoning: It is the ability to logically understand the concepts and solve problems expressed in numbers/letters/figures in combination with words. Non-verbal reasoning tests the ability of deduction and induction of logic of information and implications in a problem.
+
+The topics included in the logical reasoning section comprise of the following type of questions:
+
+   1.Verbal Questions – These type of questions can be solved verbally and no pen-paper solution is required
+	
+   2.Image-Based Questions – Mirror images or paper construction based images may be given in the question and candidates may be asked to find similar or dissimilar figures
+	
+   3.Puzzle Questions – This includes seating arrangement or arranging people/days/months/places, etc. in different formats
+	
+   4.Sequence Questions – In such questions a series or sequence of people/numbers/alphabets, etc. may be given and questions based on the same may be asked
+
+List of Topics under the Logical Reasoning Section:-
+
+    Alphanumeric series
+    Reasoning Analogies
+    Artificial Language
+    Blood Relations
+    Calendars
+    Cause and Effect
+    Clocks
+    Coding-Decoding
+    Critical path
+    Cubes and cuboids
+    Data Sufficiency
+    Decision Making
+    Deductive Reasoning/Statement Analysis
+    Dices
+    Directions
+    Embedded Images
+    Figure Matrix
+    Input-Output
+    Mirror and Water Images
+    Odd One Out
+    Picture Series and Sequences
+    Paper Folding
+    Puzzles
+    Pattern Series and Sequences
+    Order & Ranking
+    Seating Arrangements
+    Shape Construction
+    Statement and Assumptions
+    Statement and Conclusions
+    Syllogism
